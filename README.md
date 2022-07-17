@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Kedar </h1>
 <h3 align="center"> Learner </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhangiKedar&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhangiKedar" /> </p>
+
 - 🌱 I’m currently learning **web development**
 
 - 👀 I’m currently persuing Bachelors in Computer Enginnering
